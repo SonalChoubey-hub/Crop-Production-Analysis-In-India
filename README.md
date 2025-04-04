@@ -46,4 +46,4 @@ Add real-time agricultural data API integration
 Deploy as a web-based tool for broader accessibility
 
 # 🌱 Conclusion
-This project provides meaningful insights into the evolution of Indian agriculture, highlighting the effects of policy changes through clear, data-driven visualization. The inclusion of a customizable GUI makes it accessible to users of all technical backgrounds, encouraging further exploration and understanding of agricultural dynamics in India.
+This project provides meaningful insights into the evolution of Indian agriculture, highlighting the effects of policy changes through clear, data-driven visualization. 
